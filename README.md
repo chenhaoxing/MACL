@@ -6,11 +6,11 @@
 If you use MACL in your research or wish to refer to the baseline results published here, please use the following BibTeX entry.
 
 ```BibTeX
-@article{MACL,
+@inproceedings{ICML23_MACL,
       title={Model-Aware Contrastive Learning: Towards Escaping the Dilemmas},
       author={Huang Zizheng and Chen Haoxing and Wen Ziqi and Zhang Chao and Li Huaxiong and Wang Bo and Chen Chunlin},
-      journal={arXiv preprint arXiv:2207.07874},
-      year={2022}
+      booktitle={International Conference on Machine Learning},
+      year={2023}
 }
 ```
 
