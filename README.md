@@ -1,6 +1,6 @@
 ## MACL: Model-Aware Contrastive Learning: Towards Escaping Dilemmas of InfoNCE
 
-![](figure/fig1.jpeg)
+![](fig1.jpeg)
 
 ## Citing:
 If you use MACL in your research or wish to refer to the baseline results published here, please use the following BibTeX entry.
