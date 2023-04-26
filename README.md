@@ -17,7 +17,10 @@ If you use MACL in your research or wish to refer to the baseline results publis
 
 ## Todo list:
 - [x] Release core code of MACL.
-- [ ] Pre-trained models.
+- [x] Pre-trained models.
+
+## Pre-trained Models
+We have uploaded pre-trained models of SimCLR-256-e800,SimCLR-2048-e200 and MOCO-256-e800. You can choose them as you need through the following links.
 
 ## Model Performance
 Top1 linear evaluation accuracies on ImageNet1K:
