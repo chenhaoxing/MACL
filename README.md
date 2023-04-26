@@ -20,10 +20,8 @@ If you use MACL in your research or wish to refer to the baseline results publis
 - [x] Pre-trained models.
 
 ## Pre-trained Models
-We have uploaded pre-trained models of SimCLR-256-e800, SimCLR-2048-e200 and MOCO-256-e800. You can choose them as you need through the following links.
-[SimCLR-256-e800](https://huggingface.co/HaoxingChen/MACL_ICML23/tree/main/simclr_256_e800)
-[SimCLR-2048-e200](https://huggingface.co/HaoxingChen/MACL_ICML23/tree/main/simclr_2048_e200)
-[MOCO-256-e800](https://huggingface.co/HaoxingChen/MACL_ICML23/tree/main/moco_256_e800_t15a05A02)
+We have uploaded pre-trained models of [SimCLR-256-e800](https://huggingface.co/HaoxingChen/MACL_ICML23/tree/main/simclr_256_e800), [SimCLR-2048-e200](https://huggingface.co/HaoxingChen/MACL_ICML23/tree/main/simclr_2048_e200) and 
+[MOCO-256-e800](https://huggingface.co/HaoxingChen/MACL_ICML23/tree/main/moco_256_e800_t15a05A02). You can choose them as you need through the links.
 
 ## Model Performance
 Top1 linear evaluation accuracies on ImageNet1K:
