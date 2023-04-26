@@ -2,20 +2,8 @@
 
 ![](fig1.jpeg)
 
-## Citing:
-If you use MACL in your research or wish to refer to the baseline results published here, please use the following BibTeX entry.
 
-```BibTeX
-@inproceedings{ICML23_MACL,
-      title={Model-Aware Contrastive Learning: Towards Escaping the Dilemmas},
-      author={Huang Zizheng and Chen Haoxing and Wen Ziqi and Zhang Chao and Li Huaxiong and Wang Bo and Chen Chunlin},
-      booktitle={International Conference on Machine Learning},
-      year={2023}
-}
-```
-
-
-## Todo list:
+## Todo list
 - [x] Release core code of MACL.
 - [x] Pre-trained models.
 
@@ -44,6 +32,18 @@ Dataset | NCI1  | PROTEINS | MUTAG| RDT-B | DD | IMDB-B
 --- |:---:|:---:|:---:|:---:|:---:|:---:
 GraphCL | 77.87 | 74.39 | 86.80| 89.53| 78.62| 71.14
 w/ MACL | **78.41**| **74.47**| **89.04**| **90.59**| **78.80**|**71.42**
+
+## Citing
+If you use MACL in your research or wish to refer to the baseline results published here, please use the following BibTeX entry.
+
+```BibTeX
+@inproceedings{ICML23_MACL,
+      title={Model-Aware Contrastive Learning: Towards Escaping the Dilemmas},
+      author={Huang Zizheng and Chen Haoxing and Wen Ziqi and Zhang Chao and Li Huaxiong and Wang Bo and Chen Chunlin},
+      booktitle={International Conference on Machine Learning},
+      year={2023}
+}
+```
 
 ## Contacts
 Please feel free to contact us if you have any problems.
