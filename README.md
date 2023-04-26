@@ -45,7 +45,13 @@ Dataset | NCI1  | PROTEINS | MUTAG| RDT-B | DD | IMDB-B
 GraphCL | 77.87 | 74.39 | 86.80| 89.53| 78.62| 71.14
 w/ MACL | **78.41**| **74.47**| **89.04**| **90.59**| **78.80**|**71.42**
 
+## Contacts
+Please feel free to contact us if you have any problems.
+
+Email: [hx.chen@hotmail.com](hx.chen@hotmail.com) or [zizhenghuang@smail.nju.edu.cn](zizhenghuang@smail.nju.edu.cn)
 
 
 ## Acknowledgement
 Many thanks to the nice work of [MMSelfsup](https://github.com/open-mmlab/mmselfsup). Our codes and configs follow [MOCO](https://github.com/facebookresearch/moco) and [SimCLR](https://github.com/google-research/simclr).
+
+
